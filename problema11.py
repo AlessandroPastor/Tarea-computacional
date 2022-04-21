@@ -1,0 +1,1 @@
+# Problema 1.11El área de un triángulo en función el semiperímetro, dada por Herón es:area = sqrt(p(p-a)(p-b)(p-c)), donde a, b y c son los lados del triángulo y p=(a+b+c)/2 el semiperímetro.Calcular el área del triángulo aplicando la fomurla.
